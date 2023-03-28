@@ -1,7 +1,7 @@
 ![image](/icons/48x48.png)
 
 # Telegram in Sidebar
-
+## Notice: this addon is ***NOT*** currently published at addons.mozilla.org
 A Firefox WebExtension to display [Telegram](https://web.whatsapp.com/) in the sidebar.
 
 This extension adds a new section to the Firefox sidebar which contains the Telegram website.
