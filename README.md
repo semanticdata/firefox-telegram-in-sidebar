@@ -1,12 +1,12 @@
-<h1 align=center><img src="/icons/48x48.png"> Telegram in Sidebar</h1>
-
-<p align=center>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B298b10ce-2211-47d0-aad6-107b8a733fc5%7D?style=for-the-badge">
-<img src="https://img.shields.io/amo/rating/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/dw/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/users/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+<p align=right>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B298b10ce-2211-47d0-aad6-107b8a733fc5%7D">
+<img src="https://img.shields.io/amo/rating/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D" />
+<img src="https://img.shields.io/amo/dw/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D" />
+<img src="https://img.shields.io/amo/users/%7B14390478-b41b-4e29-8307-8a3c714f7783%7D" />
+<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar" />
 </p>
+
+# ![icon](/icons/48x48.png) Telegram in Sidebar
 
 A Firefox WebExtension to display Telegram within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Telegram web app. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -17,7 +17,7 @@ A Firefox WebExtension to display Telegram within the Firefox sidebar. This exte
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
