@@ -4,13 +4,11 @@
   "description": "Displays Telegram in the sidebar.",
   "version": "1.2",
   "background": {
-    "scripts": [
-      "background.js"
-    ]
+    "scripts": ["background.js"]
   },
   "applications": {
     "gecko": {
-      "strict_min_version": "60.0"
+      "strict_min_version": "73.0"
     }
   },
   "options_ui": {
@@ -32,7 +30,7 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "default": "Alt+Shift+9"
+        "default": "Alt+Shift+T"
       },
       "description": "Toggle the Telegram sidebar."
     }
