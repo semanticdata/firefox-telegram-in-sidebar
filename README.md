@@ -14,7 +14,7 @@ A Firefox WebExtension to display Telegram within the Firefox sidebar. This exte
 
 ## How to Use
 
-1. Toggle the sidebar by pressing _`Alt+Shift+D`_. This shortcut can be changed by going to _`Add-ons` → `Telegram in Sidebar` → `Options`_.
+1. Toggle the sidebar by pressing _`Alt+Shift+T`_. This shortcut can be changed by going to _`Add-ons` → `Telegram in Sidebar` → `Options`_.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
