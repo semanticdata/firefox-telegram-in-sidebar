@@ -10,7 +10,7 @@ async function updateUI() {
   }
 }
 
-// added by ~data
+// Toggles Sidebar with new Action Button
 function openSidebar() {
   browser.sidebarAction.toggle()
 }
