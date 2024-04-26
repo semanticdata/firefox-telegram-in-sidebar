@@ -1,4 +1,4 @@
-<h1 align=center><img src="src/icons/96x96.png" width="64" height="64" /> Telegram in Sidebar</h1>
+# ![logo](src/icons/48x48.png) Telegram in Sidebar
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/{14390478-b41b-4e29-8307-8a3c714f7783})
 ![Add-on rating](https://img.shields.io/amo/rating/{14390478-b41b-4e29-8307-8a3c714f7783})
